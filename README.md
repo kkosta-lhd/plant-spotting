@@ -3,7 +3,10 @@
 9-1-2015－Katherine Kosta
 # Plant Spotting − Scope of Work
 ## Objective/Scope
-Team America will develop a web interface to allow users to submit information into a database. The web interface should be simple to use across all devices. After entering simple password, the web interface will allow administrative users to view the information in their browser with the ability to choose a simple reporting format that can be downloaded. 
+Team America will develop a web interface to allow users to submit information into a database. The web interface should be simple to use across all devices. After entering simple password, the web interface will allow administrative users to view the information in their browser with the ability to choose a simple reporting format that can be downloaded.
+
+##Install
+
 ## Requirements
 1.	The website will consist of a form for user submission that is be useable across all browsers and platforms and must be responsive. 
 2.	The form will submit data to a database from which it can be retrieved through a secure admin page.
@@ -21,13 +24,17 @@ Team America will develop a web interface to allow users to submit information i
     * Locations － GPS if available, text field if not
     * Notes － User may use this field for further explanation
 2.	Database
-    * Simple database.
+    * SQL database.
 3.	Admin Access
     * Single password login for administrative users.
 4.	Reporting
     * All views will be ordered by date.
     * Initial view is formatted data dump to screen.
     * Buttons will be visible to enable administrative users to download database information in .XLS, .PDF or comma-delimited files.
+
+##Resources
+
+##Testing
 
 ## Out of Scope
 1.	Image integration
